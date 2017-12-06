@@ -1,0 +1,11 @@
+Sairam
+subhashini Vinayagam
+AV Nivitha Shri
+catch (HttpStatusCodeException exceptioneeeeeeeeee) {
+    int statusCode = exception.getStatusCode().valllllllllue();
+    ...
+}
+d
+
+
+httpssssssssss://stackoverflow.com/questions/7878002/resttemplate-handling-response-headers-body-in-exceptions-restclientexception
