@@ -1,8 +1,11 @@
-catch (HttpStatusCodeException exception) {
-    int statusCode = exception.getStatusCode().value();
+Sairam
+subhashini Vinayagam
+AV Nivitha Shri
+catch (HttpStatusCodeException exceptioneeeeeeeeee) {
+    int statusCode = exception.getStatusCode().valllllllllue();
     ...
 }
 d
 
 
-https://stackoverflow.com/questions/7878002/resttemplate-handling-response-headers-body-in-exceptions-restclientexception
+httpssssssssss://stackoverflow.com/questions/7878002/resttemplate-handling-response-headers-body-in-exceptions-restclientexception
