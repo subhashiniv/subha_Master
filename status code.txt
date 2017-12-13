@@ -1,11 +1,13 @@
-Sairam
-subhashini Vinayagam
-AV Nivitha Shri
-catch (HttpStatusCodeException exceptioneeeeeeeeee) {
-    int statusCode = exception.getStatusCode().valllllllllue();
-    ...
-}
-d
+Sairam11111111
+subhashini Vinayagam1111111
+AV Nivitha Shri11111111
+catch (HttpStatusCodeException exceptioneeeeeeeeee) {1111111
+    int statusCode = exception.getStatusCode().valllllllllue();1111
+    ...1111111
+}111111
+d111
 
 
-httpssssssssss://stackoverflow.com/questions/7878002/resttemplate-handling-response-headers-body-in-exceptions-restclientexception
+1111httpssssssssss://stackoverflow.com/questions/7878002/resttemplate-handling-response-headers-body-in-exceptions-restclientexception
+
+11111111111111
