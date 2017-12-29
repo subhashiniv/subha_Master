@@ -1,0 +1,59 @@
+Taken ownership in sharing the weekly status report by consolidating the status from every one within the team
+for both the Vietnam and Brazil Portal.
+
+With reference to the latest mock up received for Vietnam Portal, I have raised the queries with BA to get more clarity on the requirement shared
+
+Shared the Architecture diagram for CTS -AS400 Integration
+
+As part of Inception & Elaboration phase, identified the possible services to be exposed including the input, output fields, type of HTTP service etc..
+and shared with Anand for Review.
+
+Followed up with concerned team to get access for Cargill share point and created the root folder as appropriate.
+Also created the project structure and uploaded the project files of Brazil and Vietnam Portal and communicated to the team.
+
+-------
+
+Shared the Estimates to Onsite for Review for having Custom User registration feature in Brazil Portal using Okta API 
+
+Identified the possible Okta API’s for integrating the Custom User Registration page with Brazil Portal.
+
+Received Appreciation mail from Onsite Lead Ashok for identifying the appropriate API to receive the user profile object in response by passing the token value in input (that is received in welcome/activation email).
+
+Shared the Clarification tracker with onsite and got it clarified to have clarity on the Custom User Registration requirements to proceed with development.
+Also followed with Okta external support team for any of the API invocation related query.
+
+Completed the Custom User Registration screen back end implementation using Lambda covering mobile number verification using passcode.
+
+As part of Custom user registration development, I have done the clean up of the existing Lambda code for two of the major line items mentioned below,
+- Moved the hardcoded url's and other related strings to a separate constant file
+- The existing header parsing method in Lambda had issues, incase if it holds parts of the value string in the key or vice versa
+
+Received an appreciation from Onsite Lead Rakesh and Ashok for responding to an analysis w.r.t Okta API that has been shared in email 
+by Sundar for resolving the unauthorized issue on using the same token again.
+
+------------------
+As part of Brazil Portal December Mid release, new User story has been added on the flow so as to allow the end users to change their passwords whenever required.
+
+Completed the Analysis on the Okta API's that are required for integrating the Reset Password workflow with Brazil Portal.
+
+Completed the Reset Password implementation in Lambda and shared the UTC results for the same.
+
+The Reset Multifactor is an additional line item that has been covered in the implementation to handle the user registration with new/existing mobile number.
+
+Received appreciation from Ashok for putting additional effort in completing the entire Workflow with validation to handover for QA Testing(user Registration to Reset Password)
+
+Started Analysis for exposing okta related features as standalone application, the features expected are as follows,
+- Custom User Registration Screen triggered via Admin
+- Sign up/Self Registration
+- Dashboard to list the app's user has been assigned to
+- Request/Approval App Workflow
+- Activate/Deactivate/Reset Password /Search User workflow
+- Authorization check for Super Admin, App Admin, Users within the standalone app.
+
+
+
+
+
+
+
+
